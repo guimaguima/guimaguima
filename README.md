@@ -23,13 +23,5 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=200&color=52A447&reversal=true&section=footer"/>
 <!-- inspired by @Izaazz -->
