@@ -23,5 +23,9 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
+![Snake animation](https://github.com/guimaguima/guimaguima/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=200&color=52A447&reversal=true&section=footer"/>
 <!-- inspired by @Izaazz -->
