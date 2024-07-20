@@ -25,7 +25,11 @@
 
 <br>
 
-![Snake animation](https://github.com/guimaguima/guimaguima/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=200&color=52A447&reversal=true&section=footer"/>
 <!-- inspired by @Izaazz -->
