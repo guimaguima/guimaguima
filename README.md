@@ -23,8 +23,8 @@ const guima = {
   },
   projetoAtual: {
     descricao:
-      "Estou estudando redes sociais (grafos) utilizando a biblioteca networkx",
-    repositorio: "graphs-networks-study", //aconselho darem uma olhada ;)
+      "Estou estudando redes neurais, utilizando o dataset do MNIST para o aprendizado",
+    repositorio: "mnist-neural-network-study", //aconselho darem uma olhada ;)
   },
 };
 ```
