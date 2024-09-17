@@ -4,8 +4,10 @@
 
 ## 🖥 Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ```javascript
-const guima = {
+const guimaguima = {
   nome: "Gabriel Guimarães",
   pronomes: "ele" | "dele",
   areasInteresses: ["data science", "machine learning", "data mining"],
