@@ -1,10 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=200&color=52A447&reversal=true"/>
-
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=90EE90&lines=Olá,+me+chamo+Gabriel+Guimarães;Seja+Bem+Vindx!)](https://git.io/typing-svg)
 
 ## 🖥 Sobre mim
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" >
 
 ```javascript
 const guimaguima = {
@@ -62,5 +58,6 @@ const guimaguima = {
   <a href="mailto:gabrielguimasr@gmail.com?subject=Olá%20Gabriel,%20Venho%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=200&color=52A447&reversal=true&section=footer"/>
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=90EE90&lines=Por+hoje+é+só+pessoal!;Veja+meus+repositórios+↓;)](https://git.io/typing-svg)
+
 <!-- inspired by @Izaazz -->
