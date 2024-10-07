@@ -21,8 +21,8 @@ const guimaguima = {
   },
   projetoAtual: {
     descricao:
-      "Estou estudando redes neurais, utilizando o dataset do MNIST para o aprendizado",
-    repositorio: "mnist-neural-network-study", //aconselho darem uma olhada ;)
+      "Estou estudando métodos de poda em redes neurais, utilizando alguns datasets",
+    repositorio: "prunning_networks", // 🙃 aconselho darem uma olhada 
   },
 };
 ```
