@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=90EE90&lines=Hello+there!.+My+name+is+Gabriel+Guimarães;Welcome+to+my+github!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=90EE90&lines=Hello+there!+My+name+is+Gabriel+Guimarães;Welcome+to+my+github!)](https://git.io/typing-svg)
 
 ## 🖥 About me
 
