@@ -28,8 +28,7 @@ const guimaguima = {
     },
     FPS: {
       name: 'Frames Per Statistics🎯',
-      position: 'Undergraduate Researcher',
-      projects_done: ['Console Analyses']
+      position: 'Undergraduate Researcher'
     },
   },
   working_on: {
@@ -40,13 +39,6 @@ const guimaguima = {
       description:
         "A project to study LLM's behavior benchmark automization and machine stats aproximation using data science and machine learning",
       repository: "https://github.com/lac-dcc/baku", // 🙃 I recommend taking a look
-    },
-    C.A.:{
-      name: "Console Analyses",
-      from:'FPS',
-      type:"secondary",
-      description: "A repository to explores data analyses using console sales and fisical video games distribution data",
-      organization:"https://github.com/FramesPerStatistic/Console_Analyses"
     }
   },
   goals_for_my_github:{
