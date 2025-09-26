@@ -26,10 +26,6 @@ const guimaguima = {
       position: 'Undergraduate Researcher',
       projects_done: ['BAKU','Gagana']
     },
-    FPS: {
-      name: 'Frames Per Statistics🎯',
-      position: 'Undergraduate Researcher'
-    },
   },
   working_on: {
     Baku:{
